@@ -6,7 +6,7 @@ A Linha de Comando é uma forma de interagir com o sistema utilizando textos.
 
 É uma interface onde o usuário digita comandos para executar ações no sistema.
 
-## E qual a finalidade?
+## Para que serve?
 
 - Criar artigos
 - Navegar entre pastas
