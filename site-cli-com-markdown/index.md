@@ -52,12 +52,12 @@ Um comando normalmente possui três partes, sendo elas:
 
 ## Diferença entre CLI e GUI
 
-|**Características**|       **CLI**       |      **GUI**      |
+| **Características** |       **CLI**       |      **GUI**      |
 |-------------------|---------------------|-------------------|
-| Forma de uso      | Comandos de texto   | Interface visual  |
-| Facilidade        | Mais difícil        | Mais fácil        |
-| Velocidade        | Mais rápida         | Mais lenta        |
-| Controle          | Mais controle       | Menos controle    |
+| Forma de uso      | Comandos de texto digitados no terminal. | Interação visual com mouse e cliques em ícones/menus. |
+| Facilidade        | Exige prática e conhecimento de comandos. | Intuitiva e de fácil aprendizado. |
+| Velocidade        | Mais rápida para tarefas repetitivas ou avançadas. | Mais lenta, pois depende da navegação em menus. |
+| Controle          | Oferece mais controle e flexibilidade sobre sistemas e tarefas. | É mais limitado devido a opções já pré-definidas na interface. |
 
 
 ## Referência
